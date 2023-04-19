@@ -1,0 +1,333 @@
+2023-04-19T17:55:14.003Z info:     Fazendo rolagem...
+2023-04-19T17:55:18.026Z info:     Fazendo rolagem...
+2023-04-19T17:55:22.050Z info:     Fazendo rolagem...
+2023-04-19T17:55:26.068Z info:     Fazendo rolagem...
+2023-04-19T17:55:30.089Z info:     Fazendo rolagem...
+2023-04-19T17:55:34.115Z info:     Fazendo rolagem...
+2023-04-19T17:55:38.218Z info:     Fazendo rolagem...
+2023-04-19T17:55:42.316Z info:     Fazendo rolagem...
+2023-04-19T17:55:46.343Z info:     Fazendo rolagem...
+2023-04-19T17:55:50.427Z info:     Fazendo rolagem...
+2023-04-19T17:55:54.515Z info:     Fazendo rolagem...
+2023-04-19T17:55:58.542Z info:     Fazendo rolagem...
+2023-04-19T17:55:58.544Z info:     Rolagem finalizada!
+2023-04-19T17:55:58.561Z info:     item: {"name_company":"Ideal Companny Contabilidade","endereco":"Escritório de contabilidade · 17, Av. Paulista, 726","website":"//www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj107SRwrb-AhWTC60GHaw8CKkYABAAGgJwdg&ohost=www.google.com&cid=CAASEuRop3NmHTDHTKY6tis4GPtC0w&sig=AOD64_2A6FHcC-YN_uqc07kNLEN-jIbYjA&adurl&rct=j&q&ctype=99","telefone":"19 3633-4646"}
+2023-04-19T17:55:58.562Z info:     item: {"name_company":"D&D contabilidade - escritorio de contabilidade em São Paulo - SP","endereco":"Assessoria contábil · R. Líbero Badaró, 137 - 3° andar, Sala 35","website":"https://dedcontabilidade.com.br/","telefone":"11 99863-6698"}
+2023-04-19T17:55:58.563Z info:     item: {"name_company":"Contabilizei Escritório de Contabilidade - Sede São Paulo","endereco":"Assessoria contábil · Av. Paulista, 1106 - 16º andar","horario":"Aberto ⋅ Fecha às 18:00","website":"https://www.contabilizei.com.br/?utm_source=google&utm_medium=organic&utm_campaign=GMBSaoPaulo"}
+2023-04-19T17:55:58.563Z info:     item: {"name_company":"Ozai Contábil - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · Rua Caramuru, 623","website":"https://www.ozai.com.br/","telefone":"11 5584-1032"}
+2023-04-19T17:55:58.564Z info:     item: {"name_company":"Inserra | Gestão Contábil","endereco":"Assessoria contábil · Av. Prestes Maia, 241","website":"http://inserracontabilidade.com.br/","telefone":"11 3326-7667"}
+2023-04-19T17:55:58.564Z info:     item: {"name_company":"Quero abrir empresa | Slit Contabilidade","endereco":"Assessoria contábil · Av. Pedro Severino Junior, 366 - CJ 111","website":"https://www.slitcontabil.com.br/","telefone":"11 2577-7257"}
+2023-04-19T17:55:58.564Z info:     item: {"name_company":"AD PRIMUS CONTABILIDADE","endereco":"Assessoria contábil · R. Conselheiro Crispiniano, 139","website":"https://adprimuscontab.com.br/contato","telefone":"11 3255-8336"}
+2023-04-19T17:55:58.565Z info:     item: {"name_company":"Contabilidade Contabiline São Paulo","endereco":"Assessoria contábil · Av. Paulista, 807 - 23º andar - Conj. 2315","website":"https://contabilidadeemsaopaulo.negocio.site/?utm_source=gmb&utm_medium=referral","telefone":"11 4614-7556"}
+2023-04-19T17:55:58.565Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Av. Ipiranga, 104 CONJ 161 ANDAR 16 Sl. 02","horario":"Aberto ⋅ Fecha às 18:00","website":"https://contabilidade.net/"}
+2023-04-19T17:55:58.565Z info:     item: {"name_company":"CAPTA CONTABILIDADE - São Paulo - SP","endereco":"Assessoria contábil · Av. Paulista, 2444 - Cj.102","horario":"Aberto ⋅ Fecha às 18:00 · 4003-9049","website":"https://www.captacontadores.com/"}
+2023-04-19T17:55:58.566Z info:     item: {"name_company":"Inova Contabilidade","endereco":"Assessoria contábil · R. Piauí, 399","website":"https://inovacontabilidade.srv.br/sobre-nos/","telefone":"43 3324-1192"}
+2023-04-19T17:55:58.566Z info:     item: {"name_company":"BLN CONTABILIDADE - O Escritório de Contabilidade da Avenida Paulista","endereco":"Escritório de contabilidade · Av. Paulista, 491 - andar 1","website":"https://www.blncontabilidade.com.br/","telefone":"11 99943-3341"}
+2023-04-19T17:55:58.566Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · R. Líbero Badaró, 101 - 12º andar Sl. 02","horario":"Aberto ⋅ Fecha às 18:00","website":"http://contabilidade.net/"}
+2023-04-19T17:55:58.566Z info:     item: {"name_company":"CNC Assessoria Contábil S/S","endereco":"Serviço de escrituração contábil · R. Líbero Badaró, 293","website":"http://cnccontabil.com.br/","telefone":"11 3106-3020"}
+2023-04-19T17:55:58.567Z info:     item: {"name_company":"Creare Contábil","endereco":"Assessoria contábil · Av. Paulista, n. 37","website":"http://crearecontabil.com.br/mei-agora-pode-parcelar-debitos-com-a-receita/","telefone":"11 97250-5016"}
+2023-04-19T17:55:58.567Z info:     item: {"name_company":"P&S Contabilidade","endereco":"Assessoria contábil · R. João Adolfo, 118","website":"http://www.imapscontabil.com.br/contato.php","telefone":"11 3106-4058"}
+2023-04-19T17:55:58.567Z info:     item: {"name_company":"Plenus Contabilidade e Assessoria","endereco":"Escritório de contabilidade · R. Quinze de Novembro, 200","website":"https://plenuscontabilidade.com.br/","telefone":"11 94749-8608"}
+2023-04-19T17:55:58.567Z info:     item: {"name_company":"Toledo e Sona Contabilidade","endereco":"Assessoria contábil · Alameda Santos, 1343","website":"http://www.tescontabil.com.br/page003.html","telefone":"11 3263-0453"}
+2023-04-19T17:55:58.568Z info:     item: {"name_company":"Ativ Atividades Contábeis Ltda.","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 487","website":"http://www.ativcontabeis.com.br/","telefone":"11 3295-6000"}
+2023-04-19T17:55:58.568Z info:     item: {"name_company":"Tayo Contabilidade","endereco":"Assessoria contábil · Edificio São Roque - R. Dr. Bitencourt Rodrigues, 88","website":"http://www.tayo.com.br/","telefone":"11 3043-4011"}
+2023-04-19T17:55:58.573Z info:     item: {"name_company":"Soluzione Escritório de Contabilidade em SP","endereco":"Assessoria contábil · Av. Adolfo Pinheiro, 1000 - Conjunto 131","website":"http://www.soluzionecontabil.com.br/","telefone":"11 5891-1752"}
+2023-04-19T17:55:58.574Z info:     item: {"name_company":"Escritório de Contabilidade em São Paulo - SP | Tamarthi Assessoria Empresarial Ltda","endereco":"Assessoria contábil · Av. Paulista, 2064 - 14º Andar","website":"http://tamarthi.com.br/","telefone":"11 3075-2828"}
+2023-04-19T17:55:58.574Z info:     item: {"name_company":"GOMES & GOMES CONTABILIDADE","endereco":"Assessoria contábil · R. Frei Caneca, 91 - cj 42","website":"http://www.gomesegomescontabilidade.com.br/","telefone":"11 2231-9592"}
+2023-04-19T17:55:58.574Z info:     item: {"name_company":"ContabiTax Contadores Associados","endereco":"Assessoria contábil · R. Inácio Pereira da Rocha, 257","website":"http://contabitax.com.br/localizacao/","telefone":"11 4786-5658"}
+2023-04-19T17:55:58.575Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Av. Paulista, 1636 - CJ 1506","horario":"Aberto ⋅ Fecha às 18:00","website":"https://contabilidade.net/"}
+2023-04-19T17:55:58.575Z info:     item: {"name_company":"Marka Contabilidade","endereco":"Assessoria contábil · R. Martins Claro, 189","website":"https://www.markacont.com.br/","telefone":"11 3951-9492"}
+2023-04-19T17:55:58.575Z info:     item: {"name_company":"NZR Contabilidade - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · R. Oscar Freire, 2250","website":"https://www.nzrcontabilidade.com.br/","telefone":"11 97640-1091"}
+2023-04-19T17:55:58.575Z info:     item: {"name_company":"Martini Contabilistas","endereco":"Assessoria contábil · R. Riachuelo, n 44","website":"https://www.martini-contabilistas.com.br/","telefone":"11 3293-1415"}
+2023-04-19T17:55:58.576Z info:     item: {"name_company":"Express Contabilidade","endereco":"Assessoria contábil · R. Marquês de Itu, 306 - sala 92","horario":"Aberto ⋅ Fecha às 17:30","website":"http://expresscontabilidade.com.br/"}
+2023-04-19T17:55:58.576Z info:     item: {"name_company":"Contabme Contabilidade","endereco":"Assessoria contábil · R. Augusta, 890 - sala 1402","horario":"Aberto ⋅ Fecha às 18:00","website":"http://www.contabme.com.br/"}
+2023-04-19T17:55:58.576Z info:     item: {"name_company":"Pacini Contabilidade & Assessoria Empresarial","endereco":"Assessoria contábil · Praça Dr. João Mendes, 42 - 19º Andar","website":"https://pacinicontabil.com.br/","telefone":"11 3107-1598"}
+2023-04-19T17:55:58.576Z info:     item: {"name_company":"Assessoria Contábil, Fiscal e Trabalhista em São Paulo","endereco":"Assessoria contábil · Rua Major Telles 246 - Sala 06, R. Barão de Itapetininga, 50 - Conj 802","website":"https://www.facebook.com/yotacontabil/","telefone":"11 5548-0008"}
+2023-04-19T17:55:58.576Z info:     item: {"name_company":"Oliveira & Associados Organização Contábil","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 613 - 3º andar","website":"https://oacontabil.com.br/","telefone":"11 5199-3000"}
+2023-04-19T17:55:58.577Z info:     item: {"name_company":"Pacini Contabilidade & Assessoria Empresarial","endereco":"Assessoria contábil · Praça Dr. João Mendes, 42 - 19º Andar","website":"https://pacinicontabil.com.br/","telefone":"11 3107-1598"}
+2023-04-19T17:55:58.577Z info:     item: {"name_company":"Consultoria Contábil & Tributária","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 1300","website":"https://www.pwrconsulting.com.br/contact","telefone":"11 2400-0216"}
+2023-04-19T17:55:58.577Z info:     item: {"name_company":"Prudencio Contabilidade","endereco":"Assessoria contábil · Av. Paulista, 302","website":"https://www.prudenciocontabilidade.com.br/","telefone":"11 95488-6984"}
+2023-04-19T17:55:58.577Z info:     item: {"name_company":"MCF Contábil","endereco":"Assessoria contábil · Edificio Pau Dalho - R. José Bonifácio, 278 - 712","website":"http://mcfcontabil.com.br/","telefone":"11 3111-6173"}
+2023-04-19T17:55:58.577Z info:     item: {"name_company":"Contabme Contabilidade","endereco":"Assessoria contábil · R. Augusta, 890 - sala 1402","horario":"Aberto ⋅ Fecha às 18:00","website":"http://www.contabme.com.br/"}
+2023-04-19T17:55:58.578Z info:     item: {"name_company":"Controllvix Contabilidade","endereco":"Perito em contabilidade · R. Quinze de Novembro, 200 - 12º andar","website":"https://www.controllvix.com.br/","telefone":"11 3101-1540"}
+2023-04-19T17:55:58.578Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Alameda Jaú, 1177 - 4º andar","website":"https://contabilidade.net/","telefone":"11 4003-5397"}
+2023-04-19T17:55:58.579Z info:     item: {"name_company":"RHOMA Contabilidade Ltda | Centro/SP","endereco":"Assessoria contábil · Praça Dr. João Mendes, 52 - Conjunto 1602","website":"http://www.rhoma.cnt.br/","telefone":"11 97971-5243"}
+2023-04-19T17:55:58.579Z info:     item: {"name_company":"Domingos Contabilidade - Contador","endereco":"Assessoria contábil · Av. Paulista, 1471 - CONJ 511","website":"http://www.domingoscontabilidade.com.br/","telefone":"11 98409-2524"}
+2023-04-19T17:55:58.586Z info:     item: {"name_company":"TWF Contabilidade","endereco":"Assessoria contábil · 7º Andar Prédio Conde de Prates 293, R. Líbero Badaró","website":"http://www.twfcontabilidade.com.br/","telefone":"11 3106-4433"}
+2023-04-19T17:55:58.586Z info:     item: {"name_company":"Express Contabilidade","endereco":"Assessoria contábil · R. Marquês de Itu, 306 - sala 92","horario":"Aberto ⋅ Fecha às 17:30","website":"http://expresscontabilidade.com.br/"}
+2023-04-19T17:55:58.587Z info:     item: {"name_company":"Camila Rosa Contabilidade","endereco":"Assessoria contábil · Praça da República, 36","website":"https://contabilidadecamilarosa.com.br/","telefone":"13 3221-6474"}
+2023-04-19T17:55:58.588Z info:     item: {"name_company":"Nelmar Contabilidade","endereco":"Assessoria contábil · Condomínio Edifício São Paulo Center, R. Barata Ribeiro, 237 - SL 55","website":"https://www.nelmarcont.com.br/","telefone":"11 3258-2960"}
+2023-04-19T17:55:58.589Z info:     item: {"name_company":"Canaã Assessoria Contábil - Escritório","endereco":"Assessoria contábil · Praça Sílvio Romero, 55 - Sala 51","website":"http://www.canaacontabil.com.br/","telefone":"11 94745-3184"}
+2023-04-19T17:55:58.589Z info:     item: {"name_company":"Prisma Gestão Contábil","endereco":"Assessoria contábil · R. Maria Paula, 122","website":"http://prismacontabil.com/","telefone":"11 3129-8878"}
+2023-04-19T17:55:58.590Z info:     item: {"name_company":"Procontas - Escritório de Contabilidade","endereco":"Assessoria contábil · R. Joaquim Nabuco, 47 - 10° Andar, Conjunto 102","website":"http://www.procontas.com.br/","telefone":"11 5041-5628"}
+2023-04-19T17:55:58.590Z info:     item: {"name_company":"NZR Contabilidade - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · R. Oscar Freire, 2250","website":"https://www.nzrcontabilidade.com.br/","telefone":"11 97640-1091"}
+2023-04-19T17:55:58.591Z info:     item: {"name_company":"Universal de Contabilidade SS","endereco":"Assessoria contábil · R. Silveira Martins, 37 - 4º andar","website":"https://www.instagram.com/universaldecontabilidade/","telefone":"11 3116-0888"}
+2023-04-19T17:55:58.591Z info:     item: {"name_company":"Ciclo Contabilidade e Assessoria Empresarial","endereco":"Assessoria contábil · Edifício Main Office - R. Maria Paula, 123 - CJ 63","website":"http://ciclocontabilidade.com.br/","telefone":"11 3214-0321"}
+2023-04-19T17:55:58.592Z info:     item: {"name_company":"MO Contábil","endereco":"Assessoria contábil · R. Dr. Siqueira Campos, 155","website":"https://www.mocontabil.com.br/","telefone":"11 3209-8933"}
+2023-04-19T17:55:58.592Z info:     item: {"name_company":"Atrios Assessoria Contábil","endereco":"Assessoria contábil · Av. Carlos Liviero, 526","website":"http://atrioscontabilidade.com.br/","telefone":"11 2367-9242"}
+2023-04-19T17:55:58.593Z info:     item: {"name_company":"Assessoria Contábil, Fiscal e Trabalhista em São Paulo","endereco":"Assessoria contábil · Rua Major Telles 246 - Sala 06, R. Barão de Itapetininga, 50 - Conj 802","website":"https://www.facebook.com/yotacontabil/","telefone":"11 5548-0008"}
+2023-04-19T17:55:58.593Z info:     item: {"name_company":"Múltipla Assessoria e Contabilidade","endereco":"Assessoria contábil · R. Prof. Sebastião Soares de Faria, 57 - 10 andar","website":"https://multiplacontabil.com.br/","telefone":"11 2790-5700"}
+2023-04-19T17:55:58.642Z info:     Dados gravados com sucesso!
+2023-04-19T18:04:00.457Z info:     Pesquisando por: contabilidade perto de São Paulo, SP
+2023-04-19T18:04:09.255Z info:     Fazendo rolagem...
+2023-04-19T18:04:13.287Z info:     Fazendo rolagem...
+2023-04-19T18:04:17.332Z info:     Fazendo rolagem...
+2023-04-19T18:04:21.515Z info:     Fazendo rolagem...
+2023-04-19T18:04:25.614Z info:     Fazendo rolagem...
+2023-04-19T18:04:29.715Z info:     Fazendo rolagem...
+2023-04-19T18:04:33.751Z info:     Fazendo rolagem...
+2023-04-19T18:04:37.783Z info:     Fazendo rolagem...
+2023-04-19T18:04:41.813Z info:     Fazendo rolagem...
+2023-04-19T18:04:45.897Z info:     Fazendo rolagem...
+2023-04-19T18:04:49.960Z info:     Fazendo rolagem...
+2023-04-19T18:04:54.002Z info:     Fazendo rolagem...
+2023-04-19T18:04:58.081Z info:     Fazendo rolagem...
+2023-04-19T18:05:02.125Z info:     Fazendo rolagem...
+2023-04-19T18:05:06.164Z info:     Fazendo rolagem...
+2023-04-19T18:05:10.187Z info:     Fazendo rolagem...
+2023-04-19T18:05:14.220Z info:     Fazendo rolagem...
+2023-04-19T18:05:18.244Z info:     Fazendo rolagem...
+2023-04-19T18:05:22.268Z info:     Fazendo rolagem...
+2023-04-19T18:05:22.271Z info:     Rolagem finalizada!
+2023-04-19T18:05:22.320Z info:     item: {"name_company":"Anúncio","endereco":"Contabilidade especializada","horario":"Ideal Companny Contabilidade","website":"//www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiVwrWcxLb-AhULBa0GHVevA1YYABAAGgJwdg&ohost=www.google.com&cid=CAASEuRo7m_te37L8zgDMJrO4IqcUQ&sig=AOD64_0SMEGMJjbBoxn98usEUH9UCZLyHA&adurl&rct=j&q&ctype=99"}
+2023-04-19T18:05:22.321Z info:     item: {"name_company":"D&D contabilidade - escritorio de contabilidade em São Paulo - SP","endereco":"Assessoria contábil · R. Líbero Badaró, 137 - 3° andar, Sala 35","website":"https://dedcontabilidade.com.br/","telefone":"11 99863-6698"}
+2023-04-19T18:05:22.322Z info:     item: {"name_company":"Contabilizei Escritório de Contabilidade - Sede São Paulo","endereco":"Assessoria contábil · Av. Paulista, 1106 - 16º andar","horario":"Aberto ⋅ Fecha às 18:00","website":"https://www.contabilizei.com.br/?utm_source=google&utm_medium=organic&utm_campaign=GMBSaoPaulo"}
+2023-04-19T18:05:22.323Z info:     item: {"name_company":"Ozai Contábil - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · Rua Caramuru, 623","website":"https://www.ozai.com.br/","telefone":"11 5584-1032"}
+2023-04-19T18:05:22.323Z info:     item: {"name_company":"Inserra | Gestão Contábil","endereco":"Assessoria contábil · Av. Prestes Maia, 241","website":"http://inserracontabilidade.com.br/","telefone":"11 3326-7667"}
+2023-04-19T18:05:22.323Z info:     item: {"name_company":"Quero abrir empresa | Slit Contabilidade","endereco":"Assessoria contábil · Av. Pedro Severino Junior, 366 - CJ 111","website":"https://www.slitcontabil.com.br/","telefone":"11 2577-7257"}
+2023-04-19T18:05:22.324Z info:     item: {"name_company":"AD PRIMUS CONTABILIDADE","endereco":"Assessoria contábil · R. Conselheiro Crispiniano, 139","website":"https://adprimuscontab.com.br/contato","telefone":"11 3255-8336"}
+2023-04-19T18:05:22.324Z info:     item: {"name_company":"Contabilidade Contabiline São Paulo","endereco":"Assessoria contábil · Av. Paulista, 807 - 23º andar - Conj. 2315","website":"https://contabilidadeemsaopaulo.negocio.site/?utm_source=gmb&utm_medium=referral","telefone":"11 4614-7556"}
+2023-04-19T18:05:22.324Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Av. Ipiranga, 104 CONJ 161 ANDAR 16 Sl. 02","horario":"Aberto ⋅ Fecha às 18:00","website":"https://contabilidade.net/"}
+2023-04-19T18:05:22.325Z info:     item: {"name_company":"CAPTA CONTABILIDADE - São Paulo - SP","endereco":"Assessoria contábil · Av. Paulista, 2444 - Cj.102","horario":"Aberto ⋅ Fecha às 18:00 · 4003-9049","website":"https://www.captacontadores.com/"}
+2023-04-19T18:05:22.325Z info:     item: {"name_company":"Inova Contabilidade","endereco":"Assessoria contábil · R. Piauí, 399","website":"https://inovacontabilidade.srv.br/sobre-nos/","telefone":"43 3324-1192"}
+2023-04-19T18:05:22.325Z info:     item: {"name_company":"BLN CONTABILIDADE - O Escritório de Contabilidade da Avenida Paulista","endereco":"Escritório de contabilidade · Av. Paulista, 491 - andar 1","website":"https://www.blncontabilidade.com.br/","telefone":"11 99943-3341"}
+2023-04-19T18:05:22.325Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · R. Líbero Badaró, 101 - 12º andar Sl. 02","horario":"Aberto ⋅ Fecha às 18:00","website":"http://contabilidade.net/"}
+2023-04-19T18:05:22.325Z info:     item: {"name_company":"CNC Assessoria Contábil S/S","endereco":"Serviço de escrituração contábil · R. Líbero Badaró, 293","website":"http://cnccontabil.com.br/","telefone":"11 3106-3020"}
+2023-04-19T18:05:22.326Z info:     item: {"name_company":"Creare Contábil","endereco":"Assessoria contábil · Av. Paulista, n. 37","website":"http://crearecontabil.com.br/mei-agora-pode-parcelar-debitos-com-a-receita/","telefone":"11 97250-5016"}
+2023-04-19T18:05:22.326Z info:     item: {"name_company":"P&S Contabilidade","endereco":"Assessoria contábil · R. João Adolfo, 118","website":"http://www.imapscontabil.com.br/contato.php","telefone":"11 3106-4058"}
+2023-04-19T18:05:22.326Z info:     item: {"name_company":"Plenus Contabilidade e Assessoria","endereco":"Escritório de contabilidade · R. Quinze de Novembro, 200","website":"https://plenuscontabilidade.com.br/","telefone":"11 94749-8608"}
+2023-04-19T18:05:22.327Z info:     item: {"name_company":"Toledo e Sona Contabilidade","endereco":"Assessoria contábil · Alameda Santos, 1343","website":"http://www.tescontabil.com.br/page003.html","telefone":"11 3263-0453"}
+2023-04-19T18:05:22.327Z info:     item: {"name_company":"Ativ Atividades Contábeis Ltda.","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 487","website":"http://www.ativcontabeis.com.br/","telefone":"11 3295-6000"}
+2023-04-19T18:05:22.327Z info:     item: {"name_company":"Tayo Contabilidade","endereco":"Assessoria contábil · Edificio São Roque - R. Dr. Bitencourt Rodrigues, 88","website":"http://www.tayo.com.br/","telefone":"11 3043-4011"}
+2023-04-19T18:05:22.327Z info:     item: {"name_company":"Soluzione Escritório de Contabilidade em SP","endereco":"Assessoria contábil · Av. Adolfo Pinheiro, 1000 - Conjunto 131","website":"http://www.soluzionecontabil.com.br/","telefone":"11 5891-1752"}
+2023-04-19T18:05:22.327Z info:     item: {"name_company":"Escritório de Contabilidade em São Paulo - SP | Tamarthi Assessoria Empresarial Ltda","endereco":"Assessoria contábil · Av. Paulista, 2064 - 14º Andar","website":"http://tamarthi.com.br/","telefone":"11 3075-2828"}
+2023-04-19T18:05:22.328Z info:     item: {"name_company":"GOMES & GOMES CONTABILIDADE","endereco":"Assessoria contábil · R. Frei Caneca, 91 - cj 42","website":"http://www.gomesegomescontabilidade.com.br/","telefone":"11 2231-9592"}
+2023-04-19T18:05:22.328Z info:     item: {"name_company":"ContabiTax Contadores Associados","endereco":"Assessoria contábil · R. Inácio Pereira da Rocha, 257","website":"http://contabitax.com.br/localizacao/","telefone":"11 4786-5658"}
+2023-04-19T18:05:22.328Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Av. Paulista, 1636 - CJ 1506","horario":"Aberto ⋅ Fecha às 18:00","website":"https://contabilidade.net/"}
+2023-04-19T18:05:22.328Z info:     item: {"name_company":"Marka Contabilidade","endereco":"Assessoria contábil · R. Martins Claro, 189","website":"https://www.markacont.com.br/","telefone":"11 3951-9492"}
+2023-04-19T18:05:22.328Z info:     item: {"name_company":"NZR Contabilidade - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · R. Oscar Freire, 2250","website":"https://www.nzrcontabilidade.com.br/","telefone":"11 97640-1091"}
+2023-04-19T18:05:22.328Z info:     item: {"name_company":"Martini Contabilistas","endereco":"Assessoria contábil · R. Riachuelo, n 44","website":"https://www.martini-contabilistas.com.br/","telefone":"11 3293-1415"}
+2023-04-19T18:05:22.329Z info:     item: {"name_company":"Express Contabilidade","endereco":"Assessoria contábil · R. Marquês de Itu, 306 - sala 92","horario":"Aberto ⋅ Fecha às 17:30","website":"http://expresscontabilidade.com.br/"}
+2023-04-19T18:05:22.329Z info:     item: {"name_company":"Contabme Contabilidade","endereco":"Assessoria contábil · R. Augusta, 890 - sala 1402","horario":"Aberto ⋅ Fecha às 18:00","website":"http://www.contabme.com.br/"}
+2023-04-19T18:05:22.329Z info:     item: {"name_company":"Pacini Contabilidade & Assessoria Empresarial","endereco":"Assessoria contábil · Praça Dr. João Mendes, 42 - 19º Andar","website":"https://pacinicontabil.com.br/","telefone":"11 3107-1598"}
+2023-04-19T18:05:22.329Z info:     item: {"name_company":"Assessoria Contábil, Fiscal e Trabalhista em São Paulo","endereco":"Assessoria contábil · Rua Major Telles 246 - Sala 06, R. Barão de Itapetininga, 50 - Conj 802","website":"https://www.facebook.com/yotacontabil/","telefone":"11 5548-0008"}
+2023-04-19T18:05:22.329Z info:     item: {"name_company":"Oliveira & Associados Organização Contábil","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 613 - 3º andar","website":"https://oacontabil.com.br/","telefone":"11 5199-3000"}
+2023-04-19T18:05:22.330Z info:     item: {"name_company":"Pacini Contabilidade & Assessoria Empresarial","endereco":"Assessoria contábil · Praça Dr. João Mendes, 42 - 19º Andar","website":"https://pacinicontabil.com.br/","telefone":"11 3107-1598"}
+2023-04-19T18:05:22.330Z info:     item: {"name_company":"Consultoria Contábil & Tributária","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 1300","website":"https://www.pwrconsulting.com.br/contact","telefone":"11 2400-0216"}
+2023-04-19T18:05:22.330Z info:     item: {"name_company":"Prudencio Contabilidade","endereco":"Assessoria contábil · Av. Paulista, 302","website":"https://www.prudenciocontabilidade.com.br/","telefone":"11 95488-6984"}
+2023-04-19T18:05:22.330Z info:     item: {"name_company":"MCF Contábil","endereco":"Assessoria contábil · Edificio Pau Dalho - R. José Bonifácio, 278 - 712","website":"http://mcfcontabil.com.br/","telefone":"11 3111-6173"}
+2023-04-19T18:05:22.330Z info:     item: {"name_company":"Contabme Contabilidade","endereco":"Assessoria contábil · R. Augusta, 890 - sala 1402","horario":"Aberto ⋅ Fecha às 18:00","website":"http://www.contabme.com.br/"}
+2023-04-19T18:05:22.331Z info:     item: {"name_company":"Controllvix Contabilidade","endereco":"Perito em contabilidade · R. Quinze de Novembro, 200 - 12º andar","website":"https://www.controllvix.com.br/","telefone":"11 3101-1540"}
+2023-04-19T18:05:22.331Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Alameda Jaú, 1177 - 4º andar","website":"https://contabilidade.net/","telefone":"11 4003-5397"}
+2023-04-19T18:05:22.331Z info:     item: {"name_company":"RHOMA Contabilidade Ltda | Centro/SP","endereco":"Assessoria contábil · Praça Dr. João Mendes, 52 - Conjunto 1602","website":"http://www.rhoma.cnt.br/","telefone":"11 97971-5243"}
+2023-04-19T18:05:22.331Z info:     item: {"name_company":"Domingos Contabilidade - Contador","endereco":"Assessoria contábil · Av. Paulista, 1471 - CONJ 511","website":"http://www.domingoscontabilidade.com.br/","telefone":"11 98409-2524"}
+2023-04-19T18:05:22.332Z info:     item: {"name_company":"TWF Contabilidade","endereco":"Assessoria contábil · 7º Andar Prédio Conde de Prates 293, R. Líbero Badaró","website":"http://www.twfcontabilidade.com.br/","telefone":"11 3106-4433"}
+2023-04-19T18:05:22.332Z info:     item: {"name_company":"Express Contabilidade","endereco":"Assessoria contábil · R. Marquês de Itu, 306 - sala 92","horario":"Aberto ⋅ Fecha às 17:30","website":"http://expresscontabilidade.com.br/"}
+2023-04-19T18:05:22.332Z info:     item: {"name_company":"Camila Rosa Contabilidade","endereco":"Assessoria contábil · Praça da República, 36","website":"https://contabilidadecamilarosa.com.br/","telefone":"13 3221-6474"}
+2023-04-19T18:05:22.332Z info:     item: {"name_company":"Nelmar Contabilidade","endereco":"Assessoria contábil · Condomínio Edifício São Paulo Center, R. Barata Ribeiro, 237 - SL 55","website":"https://www.nelmarcont.com.br/","telefone":"11 3258-2960"}
+2023-04-19T18:05:22.332Z info:     item: {"name_company":"Canaã Assessoria Contábil - Escritório","endereco":"Assessoria contábil · Praça Sílvio Romero, 55 - Sala 51","website":"http://www.canaacontabil.com.br/","telefone":"11 94745-3184"}
+2023-04-19T18:05:22.333Z info:     item: {"name_company":"Prisma Gestão Contábil","endereco":"Assessoria contábil · R. Maria Paula, 122","website":"http://prismacontabil.com/","telefone":"11 3129-8878"}
+2023-04-19T18:05:22.333Z info:     item: {"name_company":"Procontas - Escritório de Contabilidade","endereco":"Assessoria contábil · R. Joaquim Nabuco, 47 - 10° Andar, Conjunto 102","website":"http://www.procontas.com.br/","telefone":"11 5041-5628"}
+2023-04-19T18:05:22.333Z info:     item: {"name_company":"NZR Contabilidade - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · R. Oscar Freire, 2250","website":"https://www.nzrcontabilidade.com.br/","telefone":"11 97640-1091"}
+2023-04-19T18:05:22.333Z info:     item: {"name_company":"Universal de Contabilidade SS","endereco":"Assessoria contábil · R. Silveira Martins, 37 - 4º andar","website":"https://www.instagram.com/universaldecontabilidade/","telefone":"11 3116-0888"}
+2023-04-19T18:05:22.333Z info:     item: {"name_company":"Ciclo Contabilidade e Assessoria Empresarial","endereco":"Assessoria contábil · Edifício Main Office - R. Maria Paula, 123 - CJ 63","website":"http://ciclocontabilidade.com.br/","telefone":"11 3214-0321"}
+2023-04-19T18:05:22.334Z info:     item: {"name_company":"MO Contábil","endereco":"Assessoria contábil · R. Dr. Siqueira Campos, 155","website":"https://www.mocontabil.com.br/","telefone":"11 3209-8933"}
+2023-04-19T18:05:22.334Z info:     item: {"name_company":"Atrios Assessoria Contábil","endereco":"Assessoria contábil · Av. Carlos Liviero, 526","website":"http://atrioscontabilidade.com.br/","telefone":"11 2367-9242"}
+2023-04-19T18:05:22.334Z info:     item: {"name_company":"Assessoria Contábil, Fiscal e Trabalhista em São Paulo","endereco":"Assessoria contábil · Rua Major Telles 246 - Sala 06, R. Barão de Itapetininga, 50 - Conj 802","website":"https://www.facebook.com/yotacontabil/","telefone":"11 5548-0008"}
+2023-04-19T18:05:22.334Z info:     item: {"name_company":"Múltipla Assessoria e Contabilidade","endereco":"Assessoria contábil · R. Prof. Sebastião Soares de Faria, 57 - 10 andar","website":"https://multiplacontabil.com.br/","telefone":"11 2790-5700"}
+2023-04-19T18:05:22.334Z info:     item: {"name_company":"KEMEL CONTABILIDADE","endereco":"Assessoria contábil · R. Sen. Feijó, 161 - 7º andar","website":"http://www.kemelcontabil.com.br/","telefone":"11 3105-8093"}
+2023-04-19T18:05:22.335Z info:     item: {"name_company":"SWS CONTABIL","endereco":"Assessoria contábil · R. Sete de Abril, 235","website":"http://swscontabil.com.br/","telefone":"11 3154-1500"}
+2023-04-19T18:05:22.335Z info:     item: {"name_company":"CGV Assessoria e Contabilidade","endereco":"Assessoria contábil · R. Avanhandava, 126","website":"https://www.cgvcontabilidade.com.br/contato","telefone":"11 2090-2929"}
+2023-04-19T18:05:22.335Z info:     item: {"name_company":"OPEN CONTABILIDADE","endereco":"Assessoria contábil · Avenida Paulista, 1842, CONJ 155, 15 ANDAR, TORRE NORTE","website":"http://openassessoria.com.br/","telefone":"11 5058-6078"}
+2023-04-19T18:05:22.335Z info:     item: {"name_company":"K2 CONTABILIDADE E ASSESSORIA","endereco":"Assessoria contábil · Av. Paulista","website":"http://www.k2contabilidade.com.br/","telefone":"11 3876-3509"}
+2023-04-19T18:05:22.341Z info:     item: {"name_company":"Entidade Assessoria Contábil","endereco":"Assessoria contábil · R. Conselheiro Crispiniano, 69 - conj 103","website":"http://www.entidade.com.br/","telefone":"11 2233-4866"}
+2023-04-19T18:05:22.342Z info:     item: {"name_company":"WPS Assessoria Contábil","endereco":"Assessoria contábil · Rua Brigadeiro Tobias 118, 35º Sl. 3.519","website":"https://wps-assessoria-contabil.negocio.site/","telefone":"11 3229-2028"}
+2023-04-19T18:05:22.342Z info:     item: {"name_company":"Abitante e Cruz Contabilidade","endereco":"Assessoria contábil · R. Barão de Itapetininga, 120 - sl. 306","website":"http://abitanteecruzcontabilidade.com.br/","telefone":"11 3129-3556"}
+2023-04-19T18:05:22.342Z info:     item: {"name_company":"Fic Figueiredo Contabilidade Consultiva","endereco":"Assessoria contábil · Rua Tamandaré, 76","website":"http://www.ficfigueiredo.com.br/","telefone":"11 3277-8737"}
+2023-04-19T18:05:22.342Z info:     item: {"name_company":"A3 Contabilidade","endereco":"Assessoria contábil · R. da Consolação, 368 - 7","website":"http://a3contabil.com/contact.html","telefone":"11 3214-5252"}
+2023-04-19T18:05:22.343Z info:     item: {"name_company":"RSJ Assessoria Contábil","endereco":"Assessoria contábil · Praça da Sé, 21 - Conjunto 909","website":"http://www.rsjcontabilidade.com.br/","telefone":"11 4171-3091"}
+2023-04-19T18:05:22.343Z info:     item: {"name_company":"Apriori","endereco":"Assessoria contábil · R. Maestro Cardim, 354","website":"https://www.aprioribrazil.com/languages/texto/1/0","telefone":"11 99648-3434"}
+2023-04-19T18:05:22.343Z info:     item: {"name_company":"Liberty Assessoria Contábil","endereco":"Assessoria contábil · R. Dr. Tomas de Lima, 151 - sala 25","website":"https://www.instagram.com/libertycontabil/","telefone":"11 3209-4599"}
+2023-04-19T18:05:22.343Z info:     item: {"name_company":"Calkitos","endereco":"Assessoria contábil · Av. Paulista, 1636","website":"https://calkitos.com/contactos/","telefone":"11 3224-8913"}
+2023-04-19T18:05:22.343Z info:     item: {"name_company":"Luzitana Contabilidade","endereco":"Assessoria contábil · R. da Consolação, 37 - 1º e 6º andar","website":"http://luzitanacontabilidade.com.br/","telefone":"11 3100-0868"}
+2023-04-19T18:05:22.344Z info:     item: {"name_company":"Filadélfia Contabilidade","endereco":"Assessoria contábil · R. Ailson Simões, 282","website":"https://www.filacontabilidade.com.br/","telefone":"11 5565-1327"}
+2023-04-19T18:05:22.344Z info:     item: {"name_company":"Contagile Contabilidade","endereco":"Escritório de contabilidade · Rua Jaceguai, 465 - 27º andar, Sala 2703","website":"http://www.contagile.com.br/","telefone":"11 98085-6088"}
+2023-04-19T18:05:22.344Z info:     item: {"name_company":"Escritório de Contabilidade ContLight Sociedade Empresária Ltda.","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 2504","website":"http://www.contlight.com.br/","telefone":"11 2309-3051"}
+2023-04-19T18:05:22.351Z info:     item: {"name_company":"LLX Contabilidade & Consultoria","endereco":"Assessoria contábil · R. Dr. Eurico Rangel, 58","website":"http://contagconsultoria.com.br/","telefone":"11 5588-5002"}
+2023-04-19T18:05:22.351Z info:     item: {"name_company":"MF Consultoria Contábil","endereco":"Assessoria contábil · Av. Paulista, 1374 - 4º Andar","website":"https://www.mfconsultoriacontabil.com.br/","telefone":"11 2090-4570"}
+2023-04-19T18:05:22.352Z info:     item: {"name_company":"JFGranja Contabilidade","endereco":"Assessoria contábil · R. Manuel da Nóbrega, 1280 - 11° Andar","website":"http://www.jfgranja.com.br/","telefone":"11 3053-5566"}
+2023-04-19T18:05:22.352Z info:     item: {"name_company":"Capell Contabilidade S/S Ltda","endereco":"Assessoria contábil · Praça Carlos Gomes, 46","website":"http://www.capell.com.br/","telefone":"11 3241-1211"}
+2023-04-19T18:05:22.352Z info:     item: {"name_company":"Consergy Contabilidade","endereco":"Assessoria contábil · Rua Marconi, 48 - Cj 63","website":"https://consergy.com.br/","telefone":"11 3333-5194"}
+2023-04-19T18:05:22.352Z info:     item: {"name_company":"FS CONTABILIDADE","endereco":"Assessoria contábil · Av. Prestes Maia, 241 - SALA 1312","website":"http://www.fscontabilidade.com.br/","telefone":"11 3227-2276"}
+2023-04-19T18:05:22.352Z info:     item: {"name_company":"Wilson - Contador","endereco":"Assessoria contábil · Av. Paulista, 1636 - sala, 1504","website":"https://www.youtube.com/@wilson-contador","telefone":"11 98281-6168"}
+2023-04-19T18:05:22.353Z info:     item: {"name_company":"HT Contábil","endereco":"Assessoria contábil · R. Boa Vista, 314 - 4º Andar, Conjunto B","website":"http://www.htcontabil.com/","telefone":"11 98804-0051"}
+2023-04-19T18:05:22.353Z info:     item: {"name_company":"TCQ Assessoria Contábil","endereco":"Assessoria contábil · Av. Ipiranga, 919","website":"https://www.tcqassessoria.com.br/","telefone":"11 3259-5032"}
+2023-04-19T18:05:22.353Z info:     item: {"name_company":"JOTACONT CONTABILIDADE","endereco":"Assessoria contábil · R. Rio Grande, 30","website":"http://www.jotacont.com.br/","telefone":"11 5571-1097"}
+2023-04-19T18:05:22.353Z info:     item: {"name_company":"Garutti Contabilidade e Assessoria Ltda","endereco":"Assessoria contábil · R. Augusta, 1122","website":"http://www.garutti.com.br/","telefone":"11 3256-2333"}
+2023-04-19T18:05:22.353Z info:     item: {"name_company":"Simacont Soluções em Contabilidade","endereco":"Assessoria contábil · R. Sete de Abril, 118","website":"http://simacontsolucoesemcontabilidade.contabil.me/","telefone":"11 3237-1572"}
+2023-04-19T18:05:22.353Z info:     item: {"name_company":"SKALA CONTABILIDADE (Virtual Paulista)","endereco":"Assessoria contábil · Av. Paulista, nº 2.202 – 3º andar - CJ 31F","website":"https://skalanet.com.br/","telefone":"11 3854-5377"}
+2023-04-19T18:05:22.354Z info:     item: {"name_company":"Plano Contábil","endereco":"Assessoria contábil · R. Joaquim Floriano, 466","website":"https://planocontabil.com.br/","telefone":"11 3073-1590"}
+2023-04-19T18:05:22.354Z info:     item: {"name_company":"Organização Orian Contabilidade","endereco":"Assessoria contábil · Praça Carlos Gomes, 46","website":"http://www.oriancont.com/","telefone":"11 3101-1326"}
+2023-04-19T18:05:22.354Z info:     item: {"name_company":"Contábil Nelma Ltda","endereco":"Assessoria contábil · R. Santa Luzia, 48 - Cj 41","website":"http://www.contabilnelma.com.br/","telefone":"11 3292-1600"}
+2023-04-19T18:05:22.354Z info:     item: {"name_company":"XAVIER CONTABILIDADE","endereco":"Assessoria contábil · Av. Baronesa de Muritiba, 1071","website":"https://www.contabilidadexavier.com.br/","telefone":"11 2012-5210"}
+2023-04-19T18:05:22.354Z info:     item: {"name_company":"SOBEL ASSESSORIA CONTABIL","endereco":"Assessoria contábil · R. Beneficência Portuguesa, 44 - 201","website":"http://sobelcontabil.com.br/","telefone":"11 3229-1188"}
+2023-04-19T18:05:22.355Z info:     item: {"name_company":"Cia Contábil Maef","endereco":"Assessoria contábil · R. Santo Amaro, 232","website":"http://www.ciacontabilmaef.com.br/","telefone":"11 3293-9255"}
+2023-04-19T18:05:22.355Z info:     item: {"name_company":"Escritorio de Contabilidade em SP - Contador em SP","endereco":"Assessoria contábil · Rua Ministro alvaro de souza lima, 253","website":"http://www.contabilidadeolimpia.com.br/","telefone":"11 2892-0551"}
+2023-04-19T18:05:22.355Z info:     item: {"name_company":"Contabilidade TC","endereco":"Assessoria contábil · Av. do Rio Bonito, 1296","website":"http://www.contabilidadetc.com.br/","telefone":"11 3680-9507"}
+2023-04-19T18:05:22.355Z info:     item: {"name_company":"Assessoria Contábil e Empresarial","endereco":"Assessoria contábil · Alameda 2° Sargento Geraldo Berti, 2º","website":"http://www.gxcont.com.br/contato","telefone":"11 99688-8550"}
+2023-04-19T18:07:38.638Z info:     Pesquisando por: contabilidade perto de São Paulo, SP
+2023-04-19T18:07:46.694Z info:     Fazendo rolagem...
+2023-04-19T18:07:50.719Z info:     Fazendo rolagem...
+2023-04-19T18:07:54.739Z info:     Fazendo rolagem...
+2023-04-19T18:07:58.763Z info:     Fazendo rolagem...
+2023-04-19T18:08:02.793Z info:     Fazendo rolagem...
+2023-04-19T18:08:06.815Z info:     Fazendo rolagem...
+2023-04-19T18:08:10.836Z info:     Fazendo rolagem...
+2023-04-19T18:08:14.858Z info:     Fazendo rolagem...
+2023-04-19T18:08:18.876Z info:     Fazendo rolagem...
+2023-04-19T18:08:22.895Z info:     Fazendo rolagem...
+2023-04-19T18:08:26.913Z info:     Fazendo rolagem...
+2023-04-19T18:08:30.934Z info:     Fazendo rolagem...
+2023-04-19T18:08:34.958Z info:     Fazendo rolagem...
+2023-04-19T18:08:40.053Z info:     Fazendo rolagem...
+2023-04-19T18:08:44.074Z info:     Fazendo rolagem...
+2023-04-19T18:08:48.090Z info:     Fazendo rolagem...
+2023-04-19T18:08:52.174Z info:     Fazendo rolagem...
+2023-04-19T18:08:56.193Z info:     Fazendo rolagem...
+2023-04-19T18:09:00.213Z info:     Fazendo rolagem...
+2023-04-19T18:09:00.215Z info:     Rolagem finalizada!
+2023-04-19T18:09:00.253Z info:     item: {"name_company":"Anúncio","endereco":"Ideal Companny Contabilidade","horario":"Ideal Companny Contabilidade","website":"//www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi1zaKExbb-AhUsAq0GHQyNC9MYABAAGgJwdg&ohost=www.google.com&cid=CAASEuRo1t1Vd4hiyg-8MOE0vjTb-A&sig=AOD64_2rWgo-7yFV8QzogWBph2UvJg7SzA&adurl&rct=j&q&ctype=99"}
+2023-04-19T18:09:00.254Z info:     item: {"name_company":"D&D contabilidade - escritorio de contabilidade em São Paulo - SP","endereco":"Assessoria contábil · R. Líbero Badaró, 137 - 3° andar, Sala 35","website":"https://dedcontabilidade.com.br/","telefone":"11 99863-6698"}
+2023-04-19T18:09:00.255Z info:     item: {"name_company":"Contabilizei Escritório de Contabilidade - Sede São Paulo","endereco":"Assessoria contábil · Av. Paulista, 1106 - 16º andar","horario":"Aberto ⋅ Fecha às 18:00","website":"https://www.contabilizei.com.br/?utm_source=google&utm_medium=organic&utm_campaign=GMBSaoPaulo"}
+2023-04-19T18:09:00.255Z info:     item: {"name_company":"Ozai Contábil - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · Rua Caramuru, 623","website":"https://www.ozai.com.br/","telefone":"11 5584-1032"}
+2023-04-19T18:09:00.256Z info:     item: {"name_company":"Inserra | Gestão Contábil","endereco":"Assessoria contábil · Av. Prestes Maia, 241","website":"http://inserracontabilidade.com.br/","telefone":"11 3326-7667"}
+2023-04-19T18:09:00.256Z info:     item: {"name_company":"Quero abrir empresa | Slit Contabilidade","endereco":"Assessoria contábil · Av. Pedro Severino Junior, 366 - CJ 111","website":"https://www.slitcontabil.com.br/","telefone":"11 2577-7257"}
+2023-04-19T18:09:00.256Z info:     item: {"name_company":"AD PRIMUS CONTABILIDADE","endereco":"Assessoria contábil · R. Conselheiro Crispiniano, 139","website":"https://adprimuscontab.com.br/contato","telefone":"11 3255-8336"}
+2023-04-19T18:09:00.256Z info:     item: {"name_company":"Contabilidade Contabiline São Paulo","endereco":"Assessoria contábil · Av. Paulista, 807 - 23º andar - Conj. 2315","website":"https://contabilidadeemsaopaulo.negocio.site/?utm_source=gmb&utm_medium=referral","telefone":"11 4614-7556"}
+2023-04-19T18:09:00.257Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Av. Ipiranga, 104 CONJ 161 ANDAR 16 Sl. 02","horario":"Aberto ⋅ Fecha às 18:00","website":"https://contabilidade.net/"}
+2023-04-19T18:09:00.257Z info:     item: {"name_company":"CAPTA CONTABILIDADE - São Paulo - SP","endereco":"Assessoria contábil · Av. Paulista, 2444 - Cj.102","horario":"Aberto ⋅ Fecha às 18:00 · 4003-9049","website":"https://www.captacontadores.com/"}
+2023-04-19T18:09:00.257Z info:     item: {"name_company":"Inova Contabilidade","endereco":"Assessoria contábil · R. Piauí, 399","website":"https://inovacontabilidade.srv.br/sobre-nos/","telefone":"43 3324-1192"}
+2023-04-19T18:09:00.257Z info:     item: {"name_company":"BLN CONTABILIDADE - O Escritório de Contabilidade da Avenida Paulista","endereco":"Escritório de contabilidade · Av. Paulista, 491 - andar 1","website":"https://www.blncontabilidade.com.br/","telefone":"11 99943-3341"}
+2023-04-19T18:09:00.257Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · R. Líbero Badaró, 101 - 12º andar Sl. 02","horario":"Aberto ⋅ Fecha às 18:00","website":"http://contabilidade.net/"}
+2023-04-19T18:09:00.257Z info:     item: {"name_company":"CNC Assessoria Contábil S/S","endereco":"Serviço de escrituração contábil · R. Líbero Badaró, 293","website":"http://cnccontabil.com.br/","telefone":"11 3106-3020"}
+2023-04-19T18:09:00.258Z info:     item: {"name_company":"Creare Contábil","endereco":"Assessoria contábil · Av. Paulista, n. 37","website":"http://crearecontabil.com.br/mei-agora-pode-parcelar-debitos-com-a-receita/","telefone":"11 97250-5016"}
+2023-04-19T18:09:00.258Z info:     item: {"name_company":"P&S Contabilidade","endereco":"Assessoria contábil · R. João Adolfo, 118","website":"http://www.imapscontabil.com.br/contato.php","telefone":"11 3106-4058"}
+2023-04-19T18:09:00.258Z info:     item: {"name_company":"Plenus Contabilidade e Assessoria","endereco":"Escritório de contabilidade · R. Quinze de Novembro, 200","website":"https://plenuscontabilidade.com.br/","telefone":"11 94749-8608"}
+2023-04-19T18:09:00.258Z info:     item: {"name_company":"Toledo e Sona Contabilidade","endereco":"Assessoria contábil · Alameda Santos, 1343","website":"http://www.tescontabil.com.br/page003.html","telefone":"11 3263-0453"}
+2023-04-19T18:09:00.259Z info:     item: {"name_company":"Ativ Atividades Contábeis Ltda.","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 487","website":"http://www.ativcontabeis.com.br/","telefone":"11 3295-6000"}
+2023-04-19T18:09:00.259Z info:     item: {"name_company":"Tayo Contabilidade","endereco":"Assessoria contábil · Edificio São Roque - R. Dr. Bitencourt Rodrigues, 88","website":"http://www.tayo.com.br/","telefone":"11 3043-4011"}
+2023-04-19T18:09:00.259Z info:     item: {"name_company":"Soluzione Escritório de Contabilidade em SP","endereco":"Assessoria contábil · Av. Adolfo Pinheiro, 1000 - Conjunto 131","website":"http://www.soluzionecontabil.com.br/","telefone":"11 5891-1752"}
+2023-04-19T18:09:00.259Z info:     item: {"name_company":"Escritório de Contabilidade em São Paulo - SP | Tamarthi Assessoria Empresarial Ltda","endereco":"Assessoria contábil · Av. Paulista, 2064 - 14º Andar","website":"http://tamarthi.com.br/","telefone":"11 3075-2828"}
+2023-04-19T18:09:00.259Z info:     item: {"name_company":"GOMES & GOMES CONTABILIDADE","endereco":"Assessoria contábil · R. Frei Caneca, 91 - cj 42","website":"http://www.gomesegomescontabilidade.com.br/","telefone":"11 2231-9592"}
+2023-04-19T18:09:00.267Z info:     item: {"name_company":"ContabiTax Contadores Associados","endereco":"Assessoria contábil · R. Inácio Pereira da Rocha, 257","website":"http://contabitax.com.br/localizacao/","telefone":"11 4786-5658"}
+2023-04-19T18:09:00.267Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Av. Paulista, 1636 - CJ 1506","horario":"Aberto ⋅ Fecha às 18:00","website":"https://contabilidade.net/"}
+2023-04-19T18:09:00.268Z info:     item: {"name_company":"Marka Contabilidade","endereco":"Assessoria contábil · R. Martins Claro, 189","website":"https://www.markacont.com.br/","telefone":"11 3951-9492"}
+2023-04-19T18:09:00.269Z info:     item: {"name_company":"NZR Contabilidade - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · R. Oscar Freire, 2250","website":"https://www.nzrcontabilidade.com.br/","telefone":"11 97640-1091"}
+2023-04-19T18:09:00.269Z info:     item: {"name_company":"Martini Contabilistas","endereco":"Assessoria contábil · R. Riachuelo, n 44","website":"https://www.martini-contabilistas.com.br/","telefone":"11 3293-1415"}
+2023-04-19T18:09:00.269Z info:     item: {"name_company":"Express Contabilidade","endereco":"Assessoria contábil · R. Marquês de Itu, 306 - sala 92","horario":"Aberto ⋅ Fecha às 17:30","website":"http://expresscontabilidade.com.br/"}
+2023-04-19T18:09:00.270Z info:     item: {"name_company":"Contabme Contabilidade","endereco":"Assessoria contábil · R. Augusta, 890 - sala 1402","horario":"Aberto ⋅ Fecha às 18:00","website":"http://www.contabme.com.br/"}
+2023-04-19T18:09:00.270Z info:     item: {"name_company":"Pacini Contabilidade & Assessoria Empresarial","endereco":"Assessoria contábil · Praça Dr. João Mendes, 42 - 19º Andar","website":"https://pacinicontabil.com.br/","telefone":"11 3107-1598"}
+2023-04-19T18:09:00.270Z info:     item: {"name_company":"Assessoria Contábil, Fiscal e Trabalhista em São Paulo","endereco":"Assessoria contábil · Rua Major Telles 246 - Sala 06, R. Barão de Itapetininga, 50 - Conj 802","website":"https://www.facebook.com/yotacontabil/","telefone":"11 5548-0008"}
+2023-04-19T18:09:00.271Z info:     item: {"name_company":"MCF Contábil","endereco":"Assessoria contábil · Edificio Pau Dalho - R. José Bonifácio, 278 - 712","website":"http://mcfcontabil.com.br/","telefone":"11 3111-6173"}
+2023-04-19T18:09:00.271Z info:     item: {"name_company":"Assessoria Contábil e Empresarial","endereco":"Assessoria contábil · Alameda 2° Sargento Geraldo Berti, 2º","website":"http://www.gxcont.com.br/contato","telefone":"11 99688-8550"}
+2023-04-19T18:09:00.271Z info:     item: {"name_company":"Controllvix Contabilidade","endereco":"Perito em contabilidade · R. Quinze de Novembro, 200 - 12º andar","website":"https://www.controllvix.com.br/","telefone":"11 3101-1540"}
+2023-04-19T18:09:00.271Z info:     item: {"name_company":"Camila Rosa Contabilidade","endereco":"Assessoria contábil · Praça da República, 36","website":"https://contabilidadecamilarosa.com.br/","telefone":"13 3221-6474"}
+2023-04-19T18:09:00.271Z info:     item: {"name_company":"Omega Contábil","endereco":"Assessoria contábil · R. Barão de Itapetininga, 120","website":"http://www.omegacont.cnt.br/contato.php","telefone":"11 98454-4871"}
+2023-04-19T18:09:00.272Z info:     item: {"name_company":"Escritório de Contabilidade | Contábil | Contador","endereco":"Assessoria contábil · CJ511, CP14, Av. Paulista, 1471","horario":"Aberto 24 horas","website":"https://bit.ly/contabilidadebrasil"}
+2023-04-19T18:09:00.272Z info:     item: {"name_company":"TWF Contabilidade","endereco":"Assessoria contábil · 7º Andar Prédio Conde de Prates 293, R. Líbero Badaró","website":"http://www.twfcontabilidade.com.br/","telefone":"11 3106-4433"}
+2023-04-19T18:09:00.272Z info:     item: {"name_company":"Novacap Assessoria Contábil","endereco":"Assessoria contábil · R. Riachuelo, 96 - 6°andar","website":"https://novacapcontabil.com.br/","telefone":"11 3106-8001"}
+2023-04-19T18:09:00.272Z info:     item: {"name_company":"Canaã Assessoria Contábil - Escritório","endereco":"Assessoria contábil · Praça Sílvio Romero, 55 - Sala 51","website":"http://www.canaacontabil.com.br/","telefone":"11 94745-3184"}
+2023-04-19T18:09:00.273Z info:     item: {"name_company":"RKITA Contadores Associados - Contabilidade em SP","endereco":"Escritório de contabilidade · R. Martiniano de Carvalho, 181","website":"http://www.rkita.com.br/","telefone":"11 97659-3225"}
+2023-04-19T18:09:00.273Z info:     item: {"name_company":"Prisma Gestão Contábil","endereco":"Assessoria contábil · R. Maria Paula, 122","website":"http://prismacontabil.com/","telefone":"11 3129-8878"}
+2023-04-19T18:09:00.273Z info:     item: {"name_company":"Consultoria Contábil & Tributária","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 1300","website":"https://www.pwrconsulting.com.br/contact","telefone":"11 2400-0216"}
+2023-04-19T18:09:00.273Z info:     item: {"name_company":"RHOMA Contabilidade Ltda | Centro/SP","endereco":"Assessoria contábil · Praça Dr. João Mendes, 52 - Conjunto 1602","website":"http://www.rhoma.cnt.br/","telefone":"11 97971-5243"}
+2023-04-19T18:09:00.273Z info:     item: {"name_company":"contabilidade.net","endereco":"Perito em contabilidade · Alameda Jaú, 1177 - 4º andar","website":"https://contabilidade.net/","telefone":"11 4003-5397"}
+2023-04-19T18:09:00.273Z info:     item: {"name_company":"NK Assessoria Contábil e Fiscal","endereco":"Assessoria contábil · R. Martiniano de Carvalho, 181","website":"http://www.nkcontabilidade.com.br/","telefone":"11 5080-3300"}
+2023-04-19T18:09:00.274Z info:     item: {"name_company":"Prisma Gestão Contábil","endereco":"Assessoria contábil · R. Maria Paula, 122","website":"http://prismacontabil.com/","telefone":"11 3129-8878"}
+2023-04-19T18:09:00.274Z info:     item: {"name_company":"Procontas - Escritório de Contabilidade","endereco":"Assessoria contábil · R. Joaquim Nabuco, 47 - 10° Andar, Conjunto 102","website":"http://www.procontas.com.br/","telefone":"11 5041-5628"}
+2023-04-19T18:09:00.274Z info:     item: {"name_company":"NZR Contabilidade - Escritório de Contabilidade - São Paulo - SP","endereco":"Assessoria contábil · R. Oscar Freire, 2250","website":"https://www.nzrcontabilidade.com.br/","telefone":"11 97640-1091"}
+2023-04-19T18:09:00.274Z info:     item: {"name_company":"Universal de Contabilidade SS","endereco":"Assessoria contábil · R. Silveira Martins, 37 - 4º andar","website":"https://www.instagram.com/universaldecontabilidade/","telefone":"11 3116-0888"}
+2023-04-19T18:09:00.274Z info:     item: {"name_company":"Ciclo Contabilidade e Assessoria Empresarial","endereco":"Assessoria contábil · Edifício Main Office - R. Maria Paula, 123 - CJ 63","website":"http://ciclocontabilidade.com.br/","telefone":"11 3214-0321"}
+2023-04-19T18:09:00.274Z info:     item: {"name_company":"MO Contábil","endereco":"Assessoria contábil · R. Dr. Siqueira Campos, 155","website":"https://www.mocontabil.com.br/","telefone":"11 3209-8933"}
+2023-04-19T18:09:00.275Z info:     item: {"name_company":"Atrios Assessoria Contábil","endereco":"Assessoria contábil · Av. Carlos Liviero, 526","website":"http://atrioscontabilidade.com.br/","telefone":"11 2367-9242"}
+2023-04-19T18:09:00.275Z info:     item: {"name_company":"Assessoria Contábil, Fiscal e Trabalhista em São Paulo","endereco":"Assessoria contábil · Rua Major Telles 246 - Sala 06, R. Barão de Itapetininga, 50 - Conj 802","website":"https://www.facebook.com/yotacontabil/","telefone":"11 5548-0008"}
+2023-04-19T18:09:00.275Z info:     item: {"name_company":"Múltipla Assessoria e Contabilidade","endereco":"Assessoria contábil · R. Prof. Sebastião Soares de Faria, 57 - 10 andar","website":"https://multiplacontabil.com.br/","telefone":"11 2790-5700"}
+2023-04-19T18:09:00.275Z info:     item: {"name_company":"KEMEL CONTABILIDADE","endereco":"Assessoria contábil · R. Sen. Feijó, 161 - 7º andar","website":"http://www.kemelcontabil.com.br/","telefone":"11 3105-8093"}
+2023-04-19T18:09:00.275Z info:     item: {"name_company":"SWS CONTABIL","endereco":"Assessoria contábil · R. Sete de Abril, 235","website":"http://swscontabil.com.br/","telefone":"11 3154-1500"}
+2023-04-19T18:09:00.275Z info:     item: {"name_company":"CGV Assessoria e Contabilidade","endereco":"Assessoria contábil · R. Avanhandava, 126","website":"https://www.cgvcontabilidade.com.br/contato","telefone":"11 2090-2929"}
+2023-04-19T18:09:00.276Z info:     item: {"name_company":"OPEN CONTABILIDADE","endereco":"Assessoria contábil · Avenida Paulista, 1842, CONJ 155, 15 ANDAR, TORRE NORTE","website":"http://openassessoria.com.br/","telefone":"11 5058-6078"}
+2023-04-19T18:09:00.276Z info:     item: {"name_company":"K2 CONTABILIDADE E ASSESSORIA","endereco":"Assessoria contábil · Av. Paulista","website":"http://www.k2contabilidade.com.br/","telefone":"11 3876-3509"}
+2023-04-19T18:09:00.276Z info:     item: {"name_company":"Entidade Assessoria Contábil","endereco":"Assessoria contábil · R. Conselheiro Crispiniano, 69 - conj 103","website":"http://www.entidade.com.br/","telefone":"11 2233-4866"}
+2023-04-19T18:09:00.276Z info:     item: {"name_company":"WPS Assessoria Contábil","endereco":"Assessoria contábil · Rua Brigadeiro Tobias 118, 35º Sl. 3.519","website":"https://wps-assessoria-contabil.negocio.site/","telefone":"11 3229-2028"}
+2023-04-19T18:09:00.276Z info:     item: {"name_company":"Abitante e Cruz Contabilidade","endereco":"Assessoria contábil · R. Barão de Itapetininga, 120 - sl. 306","website":"http://abitanteecruzcontabilidade.com.br/","telefone":"11 3129-3556"}
+2023-04-19T18:09:00.276Z info:     item: {"name_company":"Fic Figueiredo Contabilidade Consultiva","endereco":"Assessoria contábil · Rua Tamandaré, 76","website":"http://www.ficfigueiredo.com.br/","telefone":"11 3277-8737"}
+2023-04-19T18:09:00.277Z info:     item: {"name_company":"A3 Contabilidade","endereco":"Assessoria contábil · R. da Consolação, 368 - 7","website":"http://a3contabil.com/contact.html","telefone":"11 3214-5252"}
+2023-04-19T18:09:00.277Z info:     item: {"name_company":"RSJ Assessoria Contábil","endereco":"Assessoria contábil · Praça da Sé, 21 - Conjunto 909","website":"http://www.rsjcontabilidade.com.br/","telefone":"11 4171-3091"}
+2023-04-19T18:09:00.277Z info:     item: {"name_company":"Apriori","endereco":"Assessoria contábil · R. Maestro Cardim, 354","website":"https://www.aprioribrazil.com/languages/texto/1/0","telefone":"11 99648-3434"}
+2023-04-19T18:09:00.277Z info:     item: {"name_company":"Liberty Assessoria Contábil","endereco":"Assessoria contábil · R. Dr. Tomas de Lima, 151 - sala 25","website":"https://www.instagram.com/libertycontabil/","telefone":"11 3209-4599"}
+2023-04-19T18:09:00.277Z info:     item: {"name_company":"Calkitos","endereco":"Assessoria contábil · Av. Paulista, 1636","website":"https://calkitos.com/contactos/","telefone":"11 3224-8913"}
+2023-04-19T18:09:00.277Z info:     item: {"name_company":"Luzitana Contabilidade","endereco":"Assessoria contábil · R. da Consolação, 37 - 1º e 6º andar","website":"http://luzitanacontabilidade.com.br/","telefone":"11 3100-0868"}
+2023-04-19T18:09:00.278Z info:     item: {"name_company":"Filadélfia Contabilidade","endereco":"Assessoria contábil · R. Ailson Simões, 282","website":"https://www.filacontabilidade.com.br/","telefone":"11 5565-1327"}
+2023-04-19T18:09:00.278Z info:     item: {"name_company":"Contagile Contabilidade","endereco":"Escritório de contabilidade · Rua Jaceguai, 465 - 27º andar, Sala 2703","website":"http://www.contagile.com.br/","telefone":"11 98085-6088"}
+2023-04-19T18:09:00.278Z info:     item: {"name_company":"Escritório de Contabilidade ContLight Sociedade Empresária Ltda.","endereco":"Assessoria contábil · Av. Brigadeiro Luís Antônio, 2504","website":"http://www.contlight.com.br/","telefone":"11 2309-3051"}
+2023-04-19T18:09:00.278Z info:     item: {"name_company":"LLX Contabilidade & Consultoria","endereco":"Assessoria contábil · R. Dr. Eurico Rangel, 58","website":"http://contagconsultoria.com.br/","telefone":"11 5588-5002"}
+2023-04-19T18:09:00.278Z info:     item: {"name_company":"MF Consultoria Contábil","endereco":"Assessoria contábil · Av. Paulista, 1374 - 4º Andar","website":"https://www.mfconsultoriacontabil.com.br/","telefone":"11 2090-4570"}
+2023-04-19T18:09:00.278Z info:     item: {"name_company":"JFGranja Contabilidade","endereco":"Assessoria contábil · R. Manuel da Nóbrega, 1280 - 11° Andar","website":"http://www.jfgranja.com.br/","telefone":"11 3053-5566"}
+2023-04-19T18:09:00.279Z info:     item: {"name_company":"Capell Contabilidade S/S Ltda","endereco":"Assessoria contábil · Praça Carlos Gomes, 46","website":"http://www.capell.com.br/","telefone":"11 3241-1211"}
+2023-04-19T18:09:00.279Z info:     item: {"name_company":"Consergy Contabilidade","endereco":"Assessoria contábil · Rua Marconi, 48 - Cj 63","website":"https://consergy.com.br/","telefone":"11 3333-5194"}
+2023-04-19T18:09:00.279Z info:     item: {"name_company":"FS CONTABILIDADE","endereco":"Assessoria contábil · Av. Prestes Maia, 241 - SALA 1312","website":"http://www.fscontabilidade.com.br/","telefone":"11 3227-2276"}
+2023-04-19T18:09:00.279Z info:     item: {"name_company":"Wilson - Contador","endereco":"Assessoria contábil · Av. Paulista, 1636 - sala, 1504","website":"https://www.youtube.com/@wilson-contador","telefone":"11 98281-6168"}
+2023-04-19T18:09:00.279Z info:     item: {"name_company":"HT Contábil","endereco":"Assessoria contábil · R. Boa Vista, 314 - 4º Andar, Conjunto B","website":"http://www.htcontabil.com/","telefone":"11 98804-0051"}
+2023-04-19T18:09:00.279Z info:     item: {"name_company":"TCQ Assessoria Contábil","endereco":"Assessoria contábil · Av. Ipiranga, 919","website":"https://www.tcqassessoria.com.br/","telefone":"11 3259-5032"}
+2023-04-19T18:09:00.279Z info:     item: {"name_company":"JOTACONT CONTABILIDADE","endereco":"Assessoria contábil · R. Rio Grande, 30","website":"http://www.jotacont.com.br/","telefone":"11 5571-1097"}
+2023-04-19T18:09:00.280Z info:     item: {"name_company":"Garutti Contabilidade e Assessoria Ltda","endereco":"Assessoria contábil · R. Augusta, 1122","website":"http://www.garutti.com.br/","telefone":"11 3256-2333"}
+2023-04-19T18:09:00.280Z info:     item: {"name_company":"Simacont Soluções em Contabilidade","endereco":"Assessoria contábil · R. Sete de Abril, 118","website":"http://simacontsolucoesemcontabilidade.contabil.me/","telefone":"11 3237-1572"}
+2023-04-19T18:09:00.280Z info:     item: {"name_company":"SKALA CONTABILIDADE (Virtual Paulista)","endereco":"Assessoria contábil · Av. Paulista, nº 2.202 – 3º andar - CJ 31F","website":"https://skalanet.com.br/","telefone":"11 3854-5377"}
+2023-04-19T18:09:00.280Z info:     item: {"name_company":"Plano Contábil","endereco":"Assessoria contábil · R. Joaquim Floriano, 466","website":"https://planocontabil.com.br/","telefone":"11 3073-1590"}
+2023-04-19T18:09:00.280Z info:     item: {"name_company":"Organização Orian Contabilidade","endereco":"Assessoria contábil · Praça Carlos Gomes, 46","website":"http://www.oriancont.com/","telefone":"11 3101-1326"}
+2023-04-19T18:09:00.281Z info:     item: {"name_company":"Contábil Nelma Ltda","endereco":"Assessoria contábil · R. Santa Luzia, 48 - Cj 41","website":"http://www.contabilnelma.com.br/","telefone":"11 3292-1600"}
+2023-04-19T18:09:00.281Z info:     item: {"name_company":"XAVIER CONTABILIDADE","endereco":"Assessoria contábil · Av. Baronesa de Muritiba, 1071","website":"https://www.contabilidadexavier.com.br/","telefone":"11 2012-5210"}
+2023-04-19T18:09:00.281Z info:     item: {"name_company":"SOBEL ASSESSORIA CONTABIL","endereco":"Assessoria contábil · R. Beneficência Portuguesa, 44 - 201","website":"http://sobelcontabil.com.br/","telefone":"11 3229-1188"}
+2023-04-19T18:09:00.281Z info:     item: {"name_company":"Cia Contábil Maef","endereco":"Assessoria contábil · R. Santo Amaro, 232","website":"http://www.ciacontabilmaef.com.br/","telefone":"11 3293-9255"}
+2023-04-19T18:09:00.281Z info:     item: {"name_company":"Escritorio de Contabilidade em SP - Contador em SP","endereco":"Assessoria contábil · Rua Ministro alvaro de souza lima, 253","website":"http://www.contabilidadeolimpia.com.br/","telefone":"11 2892-0551"}
+2023-04-19T18:09:00.281Z info:     item: {"name_company":"Contabilidade TC","endereco":"Assessoria contábil · Av. do Rio Bonito, 1296","website":"http://www.contabilidadetc.com.br/","telefone":"11 3680-9507"}
+2023-04-19T18:09:00.282Z info:     item: {"name_company":"Assessoria Contábil e Empresarial","endereco":"Assessoria contábil · Alameda 2° Sargento Geraldo Berti, 2º","website":"http://www.gxcont.com.br/contato","telefone":"11 99688-8550"}
+2023-04-19T18:09:55.736Z info:     Pesquisando por: contabilidade perto de Açailândia, MA
+2023-04-19T18:10:04.160Z info:     Fazendo rolagem...
+2023-04-19T18:10:08.209Z info:     Fazendo rolagem...
+2023-04-19T18:10:12.272Z info:     Fazendo rolagem...
+2023-04-19T18:10:16.452Z info:     Fazendo rolagem...
+2023-04-19T18:10:20.471Z info:     Fazendo rolagem...
+2023-04-19T18:10:20.472Z info:     Rolagem finalizada!
+2023-04-19T18:10:20.485Z info:     item: {"name_company":"SE7E CONTABILIDADE LTDA","endereco":"Assessoria contábil · R. Rio Grande do Norte, 410-A","website":"https://7contabilidade.negocio.site/?utm_source=gmb&utm_medium=referral","telefone":"99 99114-4125"}
+2023-04-19T18:10:20.486Z info:     item: {"name_company":"Aliança Contabilidade","endereco":"Escritório de contabilidade · R. São Raimundo, 328","website":"http://www.aliancacontabill.com.br/home","telefone":"99 3538-2064"}
+2023-04-19T18:10:20.486Z info:     item: {"name_company":"PROFISC - Assessoria Fiscal, Contábil e Administrativa","endereco":"Assessoria contábil · R. São Paulo, 144","website":"https://olharcontabil.com.br/","telefone":"99 3538-1374"}
+2023-04-19T18:10:20.487Z info:     item: {"name_company":"VICONT VIEIRA CONTABILIDADE","endereco":"Assessoria contábil · R. São Luís, 372 - 1º Andar, Sala 102","website":"http://www.vicont.com.br/","telefone":"99 3538-1203"}
+2023-04-19T18:10:20.487Z info:     item: {"name_company":"SANTOS CONTABILIDADE","endereco":"Escritório de contabilidade · R. São Luís, 97","website":"http://santoscontabil.acai.com.br/","telefone":"99 99177-0220"}
+2023-04-19T18:10:20.491Z info:     item: {"name_company":"INFORCONTAB","endereco":"Escritório de contabilidade · R. Castelo Branco, 928","website":"https://inforcontab.com.br/","telefone":"99 99158-4496"}
+2023-04-19T18:10:20.512Z info:     Dados gravados com sucesso!
+2023-04-19T18:11:50.192Z info:     Pesquisando por: contabilidade perto de Açailândia, MA
+2023-04-19T18:13:35.683Z info:     Pesquisando por: contabilidade perto de Açailândia, MA
+2023-04-19T18:13:44.835Z info:     Fazendo rolagem...
+2023-04-19T18:13:48.965Z info:     Fazendo rolagem...
+2023-04-19T18:13:53.000Z info:     Fazendo rolagem...
+2023-04-19T18:13:57.212Z info:     Fazendo rolagem...
+2023-04-19T18:14:01.248Z info:     Fazendo rolagem...
+2023-04-19T18:14:01.250Z info:     Rolagem finalizada!
+2023-04-19T18:14:01.263Z info:     item: {"name_company":"SE7E CONTABILIDADE LTDA","endereco":"Assessoria contábil · R. Rio Grande do Norte, 410-A","website":"https://7contabilidade.negocio.site/?utm_source=gmb&utm_medium=referral","telefone":"99 99114-4125"}
+2023-04-19T18:14:01.263Z info:     item: {"name_company":"Aliança Contabilidade","endereco":"Escritório de contabilidade · R. São Raimundo, 328","website":"http://www.aliancacontabill.com.br/home","telefone":"99 3538-2064"}
+2023-04-19T18:14:01.264Z info:     item: {"name_company":"PROFISC - Assessoria Fiscal, Contábil e Administrativa","endereco":"Assessoria contábil · R. São Paulo, 144","website":"https://olharcontabil.com.br/","telefone":"99 3538-1374"}
+2023-04-19T18:14:01.265Z info:     item: {"name_company":"VICONT VIEIRA CONTABILIDADE","endereco":"Assessoria contábil · R. São Luís, 372 - 1º Andar, Sala 102","website":"http://www.vicont.com.br/","telefone":"99 3538-1203"}
+2023-04-19T18:14:01.266Z info:     item: {"name_company":"SANTOS CONTABILIDADE","endereco":"Escritório de contabilidade · R. São Luís, 97","website":"http://santoscontabil.acai.com.br/","telefone":"99 99177-0220"}
+2023-04-19T18:14:01.267Z info:     item: {"name_company":"INFORCONTAB","endereco":"Escritório de contabilidade · R. Castelo Branco, 928","website":"https://inforcontab.com.br/","telefone":"99 99158-4496"}
+2023-04-19T18:14:01.304Z info:     Dados gravados com sucesso!

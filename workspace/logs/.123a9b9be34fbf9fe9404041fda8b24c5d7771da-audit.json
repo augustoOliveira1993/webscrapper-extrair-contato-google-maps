@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/home/augusto/Documentos/projetos/Automações/google-maps-webscrapper/workspace/logs/.123a9b9be34fbf9fe9404041fda8b24c5d7771da-audit.json",
+    "files": [
+        {
+            "date": 1681926894424,
+            "name": "/home/augusto/Documentos/projetos/Automações/google-maps-webscrapper/workspace/logs/google-maps-webscrapper-2023-04-19.log",
+            "hash": "dd2e27bf07e0120284b979b9a211ead63a3dffa5bbcbb5e7ddf445645dc3b78b"
+        }
+    ],
+    "hashType": "sha256"
+}
