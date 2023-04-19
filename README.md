@@ -27,3 +27,13 @@ node googleMapsWebscrapper.js
 
 ## Funcionamento da Automação
 A automação acessa o Google Maps, realiza uma busca pelo termo especificado na variável <b>termo_busca</b>, extrai os contatos encontrados e os armazena em um arquivo <b>DD_MM_YYYY_TIMESTAMP_contatos.csv</b>.
+
+## Observações
+Os contatos extraídos são armazenados em um arquivo CSV com as seguintes colunas:
+
+- Nome da Empresa
+- Endereço
+- Telefone
+- Website
+
+Esse arquivo está localizado na pasta `workspace/contatos/` do projeto.
