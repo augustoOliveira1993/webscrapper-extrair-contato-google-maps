@@ -331,3 +331,17 @@
 2023-04-19T18:14:01.266Z info:     item: {"name_company":"SANTOS CONTABILIDADE","endereco":"Escritório de contabilidade · R. São Luís, 97","website":"http://santoscontabil.acai.com.br/","telefone":"99 99177-0220"}
 2023-04-19T18:14:01.267Z info:     item: {"name_company":"INFORCONTAB","endereco":"Escritório de contabilidade · R. Castelo Branco, 928","website":"https://inforcontab.com.br/","telefone":"99 99158-4496"}
 2023-04-19T18:14:01.304Z info:     Dados gravados com sucesso!
+2023-04-19T18:26:01.977Z info:     Pesquisando por: contabilidade perto de Açailândia, MA
+2023-04-19T18:26:11.574Z info:     Fazendo rolagem...
+2023-04-19T18:26:15.662Z info:     Fazendo rolagem...
+2023-04-19T18:26:19.739Z info:     Fazendo rolagem...
+2023-04-19T18:26:23.871Z info:     Fazendo rolagem...
+2023-04-19T18:26:27.975Z info:     Fazendo rolagem...
+2023-04-19T18:26:27.981Z info:     Rolagem finalizada!
+2023-04-19T18:26:28.042Z info:     item: {"name_company":"SE7E CONTABILIDADE LTDA","endereco":"Assessoria contábil · R. Rio Grande do Norte, 410-A","website":"https://7contabilidade.negocio.site/?utm_source=gmb&utm_medium=referral","telefone":"99 99114-4125"}
+2023-04-19T18:26:28.046Z info:     item: {"name_company":"Aliança Contabilidade","endereco":"Escritório de contabilidade · R. São Raimundo, 328","website":"http://www.aliancacontabill.com.br/home","telefone":"99 3538-2064"}
+2023-04-19T18:26:28.047Z info:     item: {"name_company":"PROFISC - Assessoria Fiscal, Contábil e Administrativa","endereco":"Assessoria contábil · R. São Paulo, 144","website":"https://olharcontabil.com.br/","telefone":"99 3538-1374"}
+2023-04-19T18:26:28.048Z info:     item: {"name_company":"VICONT VIEIRA CONTABILIDADE","endereco":"Assessoria contábil · R. São Luís, 372 - 1º Andar, Sala 102","website":"http://www.vicont.com.br/","telefone":"99 3538-1203"}
+2023-04-19T18:26:28.049Z info:     item: {"name_company":"SANTOS CONTABILIDADE","endereco":"Escritório de contabilidade · R. São Luís, 97","website":"http://santoscontabil.acai.com.br/","telefone":"99 99177-0220"}
+2023-04-19T18:26:28.050Z info:     item: {"name_company":"INFORCONTAB","endereco":"Escritório de contabilidade · R. Castelo Branco, 928","website":"https://inforcontab.com.br/","telefone":"99 99158-4496"}
+2023-04-19T18:26:28.133Z info:     Dados gravados com sucesso!

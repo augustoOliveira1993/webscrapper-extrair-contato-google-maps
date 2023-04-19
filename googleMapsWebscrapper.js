@@ -137,8 +137,9 @@ class GoogleMapsScraper {
 const scraper = new GoogleMapsScraper();
 
 (async () => {
+    const termo_busca = 'contabilidade perto de Açailândia, MA'
     addLogRotate('./workspace')
     await scraper.initialize(true);
-    await scraper.getContatosListMap('contabilidade perto de Açailândia, MA')
+    await scraper.getContatosListMap(termo_busca)
     await scraper.close();
 })();
