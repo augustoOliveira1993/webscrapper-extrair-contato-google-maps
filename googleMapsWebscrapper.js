@@ -41,7 +41,7 @@ class GoogleMapsScraper {
     salvarDadosCSV(array) {
         const createCsvWriter = require('csv-writer').createObjectCsvWriter;
         const csvWriter = createCsvWriter({
-            path: `workspace/contatos/${this.getDateAtual()}_${this.getCurrentTimestamp()}_output.csv`,
+            path: `workspace/contatos/${this.getDateAtual()}_${this.getCurrentTimestamp()}_contatos.csv`,
             header: [
                 {id: 'name_company', title: 'Nome da Empresa'},
                 {id: 'endereco', title: 'Endereço'},
