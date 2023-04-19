@@ -6,23 +6,19 @@ Esta automação tem como propósito extrair contatos do Google Maps com base em
 Para executar a automação, é necessário ter as seguintes dependências instaladas:
 
 - Node.js
-- Puppeteer
-- Puppeteer-extra
-
-Para instalar as dependências, execute o seguinte comando no terminal:
-
-```
-npm install
-```
-
-Certifique-se de incluir o package.json no projeto para que o npm possa instalar as dependências corretamente.
+- csv-writer
+- puppeteer
+- winston
+- winston-daily-rotate-file
 
 ## Instruções para Executar a Automação
 Para executar a automação, siga as instruções abaixo:
 
 - Abra o terminal e navegue até a pasta do projeto;
 - Execute o seguinte comando no terminal para instalar as dependências necessárias:
-- npm install
+```
+npm install
+```
 - Abra o arquivo <b>googleMapsWebscrapper.js</b> e altere a variável <b>termo_busca</b> para a busca desejada no Google Maps;
 Execute o seguinte comando no terminal para iniciar a automação:
 ```
