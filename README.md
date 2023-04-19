@@ -19,10 +19,10 @@ Para executar a automação, siga as instruções abaixo:
 ```
 npm install
 ```
-- Abra o arquivo <b>googleMapsWebscrapper.js</b> e altere a variável <b>termo_busca</b> para a busca desejada no Google Maps;
+- Abra o arquivo <b>webscrapper.js</b> e altere a variável <b>termo_busca</b> para a busca desejada no Google Maps;
 Execute o seguinte comando no terminal para iniciar a automação:
 ```
-node googleMapsWebscrapper.js
+node webscrapper.js
 ```
 
 ## Funcionamento da Automação

@@ -27,7 +27,8 @@ class GoogleMapsScraper {
 
     getCurrentTimestamp() {
         const currentDate = new Date();
-        return currentDate.getTime();;
+        return currentDate.getTime();
+        ;
     }
 
     getDateAtual() {
@@ -43,10 +44,11 @@ class GoogleMapsScraper {
         const csvWriter = createCsvWriter({
             path: `workspace/contatos/${this.getDateAtual()}_${this.getCurrentTimestamp()}_contatos.csv`,
             header: [
-                {id: 'name_company', title: 'Nome da Empresa'},
-                {id: 'endereco', title: 'Endereço'},
-                {id: 'telefone', title: 'Telefone'},
-                {id: 'website', title: 'Website'}
+                {id: 'titular', title: 'Titular'},
+                {id: 'documento', title: 'CNPJ'},
+                {id: 'responsável', title: 'Responsável'},
+                {id: 'nome', title: 'Nome'},
+                {id: 'email', title: 'Email'},
             ]
         });
 
@@ -56,6 +58,44 @@ class GoogleMapsScraper {
             });
 
     }
+
+    async getInfoRegistroBr(url) {
+        await this.page.goto(`https://registro.br/tecnologia/ferramentas/whois?search=${url}`)
+        await this.page.waitForSelector('#whois-field')
+        await this.page.waitForTimeout(1000)
+
+        const info = await this.page.evaluate(() => {
+            let obj = {}
+            document.querySelectorAll('tr').forEach((row) => {
+                const th = row.querySelector('th');
+                const td = row.querySelector('td');
+                if (th && td) {
+                    let columns = ['titular', 'documento', 'responsável', 'nome', 'email']
+                    const key = th.innerText.trim().toLowerCase().replaceAll(' ', '_');
+                    const value = td.innerText.trim();
+                    if (columns.includes(key)) {
+                        obj[key] = value;
+                    }
+                }
+            });
+            return obj
+        })
+        return info
+    }
+
+    isValidUrl(url_website) {
+        const url = new URL(url_website);
+        const domain = url.hostname;
+        const hasBr = /\.br$/.test(domain);
+
+        if (hasBr) {
+            return true
+        } else {
+            return false
+        }
+
+    }
+
 
     async getContatosListMap(termo_pesquisa) {
         this.termo_busca = termo_pesquisa
@@ -123,7 +163,6 @@ class GoogleMapsScraper {
         AllList.forEach((item) => {
             logger.info(`item: ${JSON.stringify(item)}`)
         })
-        this.salvarDadosCSV(AllList)
         return AllList
     }
 
@@ -140,6 +179,27 @@ const scraper = new GoogleMapsScraper();
     const termo_busca = 'contabilidade perto de Açailândia, MA'
     addLogRotate('./workspace')
     await scraper.initialize(true);
-    await scraper.getContatosListMap(termo_busca)
-    await scraper.close();
+    const contatos = await scraper.getContatosListMap(termo_busca)
+    var contatos_filtrado = []
+    try {
+        for (const item of contatos) {
+            const url = new URL(item.website);
+            const domain = url.hostname;
+            logger.info(`isValidUrl: ${scraper.isValidUrl(item.website)}, hostname: ${domain}`)
+            if (scraper.isValidUrl(item.website)) {
+                await scraper.page.waitForTimeout(1000)
+                const info = await scraper.getInfoRegistroBr(domain)
+                logger.info(`info: ${JSON.stringify(info)}, ${info !== undefined}`)
+                if(info !== undefined) {
+                    contatos_filtrado.push(JSON.parse(JSON.stringify(info)))
+                }
+            }
+        }
+        scraper.salvarDadosCSV(contatos_filtrado)
+    } catch (e) {
+        logger.error(`Erro ao obter info do registro.br: ${e}`)
+        await scraper.close();
+    }
+
+
 })();
