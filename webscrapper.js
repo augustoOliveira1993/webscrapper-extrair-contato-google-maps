@@ -44,11 +44,15 @@ class GoogleMapsScraper {
         const csvWriter = createCsvWriter({
             path: `workspace/contatos/${this.getDateAtual()}_${this.getCurrentTimestamp()}_contatos.csv`,
             header: [
+                {id: 'domain', title: 'Dominio'},
                 {id: 'titular', title: 'Titular'},
                 {id: 'documento', title: 'CNPJ'},
                 {id: 'responsável', title: 'Responsável'},
                 {id: 'nome', title: 'Nome'},
                 {id: 'email', title: 'Email'},
+                {id: 'name_company', title: 'Nome Empresa'},
+                {id: 'website', title: 'Website'},
+                {id: 'telefone', title: 'Telefone'},
             ]
         });
 
@@ -66,6 +70,7 @@ class GoogleMapsScraper {
 
         const info = await this.page.evaluate(() => {
             let obj = {}
+            let objCompleto = {}
             document.querySelectorAll('tr').forEach((row) => {
                 const th = row.querySelector('th');
                 const td = row.querySelector('td');
@@ -73,14 +78,20 @@ class GoogleMapsScraper {
                     let columns = ['titular', 'documento', 'responsável', 'nome', 'email']
                     const key = th.innerText.trim().toLowerCase().replaceAll(' ', '_');
                     const value = td.innerText.trim();
+                    objCompleto[key] = value
                     if (columns.includes(key)) {
                         obj[key] = value;
                     }
                 }
             });
-            return obj
+            return {
+                obj,
+                objCompleto
+            }
         })
-        return info
+        logger.info('Dados do registro.br obtidos com sucesso!')
+        logger.info(`Objeto completo: ${JSON.stringify(info.objCompleto)} `)
+        return info.obj
     }
 
     isValidUrl(url_website) {
@@ -191,10 +202,11 @@ const scraper = new GoogleMapsScraper();
                 const info = await scraper.getInfoRegistroBr(domain)
                 logger.info(`info: ${JSON.stringify(info)}, ${info !== undefined}`)
                 if(info !== undefined) {
-                    contatos_filtrado.push(JSON.parse(JSON.stringify(info)))
+                    contatos_filtrado.push({...JSON.parse(JSON.stringify(info)), ...item, domain})
                 }
             }
         }
+
         scraper.salvarDadosCSV(contatos_filtrado)
     } catch (e) {
         logger.error(`Erro ao obter info do registro.br: ${e}`)
