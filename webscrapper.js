@@ -203,7 +203,7 @@ class GoogleMapsScraper {
 const scraper = new GoogleMapsScraper();
 
 (async () => {
-    const termo_busca = 'lanchonete perto de Açailândia, MA'
+    const termo_busca = 'contabilidade perto de São José dos Campos, SP'
     addLogRotate('./workspace')
     await scraper.initialize(false);
     const contatos = await scraper.getContatosListMap(termo_busca)
