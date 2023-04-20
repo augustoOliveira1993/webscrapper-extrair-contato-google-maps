@@ -39,10 +39,10 @@ class GoogleMapsScraper {
         return `${day}_${month}_${year}`;
     }
 
-    salvarDadosCSV(array) {
+    salvarDadosCSV(array, name='contatos') {
         const createCsvWriter = require('csv-writer').createObjectCsvWriter;
         const csvWriter = createCsvWriter({
-            path: `workspace/contatos/${this.getDateAtual()}_${this.getCurrentTimestamp()}_contatos.csv`,
+            path: `workspace/contatos/${this.getDateAtual()}_${this.getCurrentTimestamp()}_${name}.csv`,
             header: [
                 {id: 'domain', title: 'Dominio'},
                 {id: 'titular', title: 'Titular'},
@@ -64,6 +64,7 @@ class GoogleMapsScraper {
     }
 
     async getInfoRegistroBr(url) {
+        logger.warn('Acessando registro.br' + url)
         await this.page.goto(`https://registro.br/tecnologia/ferramentas/whois?search=${url}`)
         await this.page.waitForSelector('#whois-field')
         await this.page.waitForTimeout(1000)
@@ -89,8 +90,6 @@ class GoogleMapsScraper {
                 objCompleto
             }
         })
-        logger.info('Dados do registro.br obtidos com sucesso!')
-        logger.info(`Objeto completo: ${JSON.stringify(info.objCompleto)} `)
         return info.obj
     }
 
@@ -111,14 +110,14 @@ class GoogleMapsScraper {
     async getContatosListMap(termo_pesquisa) {
         this.termo_busca = termo_pesquisa
         this.page.goto('https://www.google.com/maps')
-        await this.page.waitForNavigation({waitUntil: 'networkidle2'})
+        await this.page.waitForNavigation({waitUntil: 'networkidle2', timeout: 40000})
         await this.page.click('#searchboxinput')
         logger.info('Pesquisando por: ' + termo_pesquisa)
         await this.page.keyboard.type(termo_pesquisa, {delay: 50})
         await this.page.keyboard.press('Enter')
 
         await this.page.waitForNavigation({waitUntil: 'networkidle2'})
-        await this.page.waitForTimeout(1000)
+        await this.page.waitForTimeout(3000)
 
         let previousHeight;
         while (true) {
@@ -177,6 +176,23 @@ class GoogleMapsScraper {
         return AllList
     }
 
+    extrairDomain(url) {
+        const domainRegex = /(?<=\/\/)([^\/\s]+)/;
+        const match = domainRegex.exec(url);
+
+        if (match) {
+            const domain = match[1];
+            return domain;
+        }
+    }
+
+    addHttpsIfNeeded(url) {
+        if (!/^https?:\/\//i.test(url)) {
+            url = "https://" + url;
+        }
+        return url;
+    }
+
 
     async close() {
         await this.browser.close();
@@ -187,27 +203,30 @@ class GoogleMapsScraper {
 const scraper = new GoogleMapsScraper();
 
 (async () => {
-    const termo_busca = 'contabilidade perto de Açailândia, MA'
+    const termo_busca = 'lanchonete perto de Açailândia, MA'
     addLogRotate('./workspace')
-    await scraper.initialize(true);
+    await scraper.initialize(false);
     const contatos = await scraper.getContatosListMap(termo_busca)
+    scraper.salvarDadosCSV(contatos, 'contatos_google_maps')
     var contatos_filtrado = []
     try {
         for (const item of contatos) {
-            const url = new URL(item.website);
+            const urkFind = scraper.addHttpsIfNeeded(item.website)
+            const url = new URL(urkFind);
             const domain = url.hostname;
-            logger.info(`isValidUrl: ${scraper.isValidUrl(item.website)}, hostname: ${domain}`)
-            if (scraper.isValidUrl(item.website)) {
+            if (scraper.isValidUrl(urkFind)) {
                 await scraper.page.waitForTimeout(1000)
+                logger.info(`Iniciando a extrarção no Registro.br: ${domain}`)
                 const info = await scraper.getInfoRegistroBr(domain)
-                logger.info(`info: ${JSON.stringify(info)}, ${info !== undefined}`)
+                logger.info(`info: ${JSON.stringify(info)}`)
                 if(info !== undefined) {
                     contatos_filtrado.push({...JSON.parse(JSON.stringify(info)), ...item, domain})
                 }
             }
         }
 
-        scraper.salvarDadosCSV(contatos_filtrado)
+        scraper.salvarDadosCSV(contatos_filtrado, 'contatos_registro_br')
+        await scraper.close();
     } catch (e) {
         logger.error(`Erro ao obter info do registro.br: ${e}`)
         await scraper.close();
