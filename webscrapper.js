@@ -200,28 +200,40 @@ class GoogleMapsScraper {
 }
 
 
-const scraper = new GoogleMapsScraper();
+let scraper = new GoogleMapsScraper();
 
 (async () => {
-    const termo_busca = 'contabilidade perto de São José dos Campos, SP'
+    const termo_busca = 'contabilidade perto de são paulo sp'
     addLogRotate('./workspace')
     await scraper.initialize(false);
     const contatos = await scraper.getContatosListMap(termo_busca)
     scraper.salvarDadosCSV(contatos, 'contatos_google_maps')
     var contatos_filtrado = []
+    let count = 0
     try {
         for (const item of contatos) {
-            const urkFind = scraper.addHttpsIfNeeded(item.website)
-            const url = new URL(urkFind);
+            const urlFind = scraper.addHttpsIfNeeded(item.website)
+            const url = new URL(urlFind);
             const domain = url.hostname;
-            if (scraper.isValidUrl(urkFind)) {
-                await scraper.page.waitForTimeout(1000)
+            if (scraper.isValidUrl(urlFind)) {
+                logger.error(`INDEX ATUAL: ${count}`)
+                if(count === 20) {
+                    await scraper.page.waitForTimeout(3000)
+                    logger.info('Aguardando 3 segundos para continuar a extração...')
+                    await scraper.close()
+                    scraper = new GoogleMapsScraper();
+                    await scraper.initialize(false);
+                    count = 0
+                }
+                logger.info('Aguardando 5 segundos para continuar a extração...')
+                await scraper.page.waitForTimeout(5000)
                 logger.info(`Iniciando a extrarção no Registro.br: ${domain}`)
                 const info = await scraper.getInfoRegistroBr(domain)
                 logger.info(`info: ${JSON.stringify(info)}`)
                 if(info !== undefined) {
                     contatos_filtrado.push({...JSON.parse(JSON.stringify(info)), ...item, domain})
                 }
+                count++
             }
         }
 
